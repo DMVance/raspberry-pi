@@ -1,5 +1,5 @@
 # raspberry-pi
-Repo for raspberry pi programming and build project.
+Repo for raspberry pi programming and building projects.
 
 * NAS - Network Attached Storage
 * Plane Tracker
